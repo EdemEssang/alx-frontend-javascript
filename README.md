@@ -1,5 +1,5 @@
-# alx-backend-javascript
+# alx-frontend-javascript
 
-## specialization projects
+## First Specialization project
 
 ### 0x00-ES6_basic

@@ -1,6 +1,5 @@
 # 0x00. ES6 Basics 
 Resources
-**Read or watch**:
 
 *   [ECMAScript 6 - ECMAScript 2015](/rltoken/NW1dFLFExQ12_hD8yvkV3A "ECMAScript 6 - ECMAScript 2015")
 *   [Statements and declarations](/rltoken/sroRUsUvOZV28V99MHDenw "Statements and declarations")
